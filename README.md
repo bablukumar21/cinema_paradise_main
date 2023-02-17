@@ -26,7 +26,7 @@ Check out [API LIVE DEMO](https://cinemaparadisebackend.bablukumar9.repl.co) her
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/rsinclair12/cinema_paradiso_frontend.git
+git clone https://github.com/bablukumar21/cinema_paradise_main.git
 ```
 
 2. Frontend setting
